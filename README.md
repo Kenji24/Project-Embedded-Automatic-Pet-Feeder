@@ -1,2 +1,2 @@
-# Project-Embedded-Automatic-Pet-Feeder
+# Project Embedded Automatic Pet Feeder
 Projek pet feeder otomatis yang serderhana menggunakan arduino
