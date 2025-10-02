@@ -3,10 +3,10 @@
 Projek pet feeder otomatis yang serderhana menggunakan arduino. Terdapat dua sensor yaitu pada container dan mangkuk sehingga sistem dapat mengatur porsi tanpa membuat mangkuk penuh sendiri
 
 
-![full body](preview/full_body.jpg)
-![servo](preview/servo.jpg)
-![top enclosure](preview/top_enclosure.jpg)
-![bowl sensor](preview/bowl_sensor.jpg)
+<img src="preview/full_body.jpg" alt="full_body" width="400">
+<img src="preview/servo.jpg" alt="servo" width="400">
+<img src="preview/top_enclosure.jpg" alt="top_enclosure" width="400">
+<img src="preview/bowl_sensor.jpg" alt="bowl sensor" width="400">
 
 # Fitur
 
